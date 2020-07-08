@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" ?>
 <!--
 /**
  * Copyright © Freroma, Inc. All rights reserved.
@@ -6,9 +6,9 @@
  */
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
-    <router id="admin">
-        <route id="optionsautocomplete" frontName="optionsautocomplete">
-            <module name="Freroma_OptionsAutocomplete" />
+    <router id="standard">
+        <route frontName="optionsautocomplete" id="optionsautocomplete">
+            <module name="Freroma_OptionsAutocomplete"/>
         </route>
     </router>
 </config>

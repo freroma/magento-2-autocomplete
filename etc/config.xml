@@ -4,7 +4,7 @@
         <optionsautocomplete>
             <general>
                 <enable>1</enable>
-                <display_text>Options Autocomplete</display_text>
+                <placeholder_text>Search entire store here...</placeholder_text>
             </general>
         </optionsautocomplete>
     </default>
